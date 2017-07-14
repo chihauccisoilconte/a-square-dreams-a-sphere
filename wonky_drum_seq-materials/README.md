@@ -19,6 +19,10 @@ Front Panel - Inkscape (https://inkscape.org/en/)
 
 All this software are free and Open-source
 
+More info here:
+http://cargocollective.com/chihauccisoilconte/Wonky-Drum-Sequencer
+http://cargocollective.com/chihauccisoilconte/A-square-dreams-A-sphere
+
 Enjoy
 
  
